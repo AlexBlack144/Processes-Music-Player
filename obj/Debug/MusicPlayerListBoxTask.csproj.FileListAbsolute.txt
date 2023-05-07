@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\bin\Debug\MusicPlayerListBoxTask.exe.config
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\bin\Debug\MusicPlayerListBoxTask.exe
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\bin\Debug\MusicPlayerListBoxTask.pdb
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\obj\Debug\MusicPlayerListBoxTask.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\obj\Debug\MusicPlayerListBoxTask.Form1.resources
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\obj\Debug\MusicPlayerListBoxTask.Properties.Resources.resources
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\obj\Debug\MusicPlayerListBoxTask.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\obj\Debug\MusicPlayerListBoxTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\obj\Debug\MusicPlayerListBoxTask.exe
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\obj\Debug\MusicPlayerListBoxTask.pdb
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\MusicPlayerListBoxTask\obj\Debug\MusicPlayerListBoxTask.csproj.ResolveComReference.cache
